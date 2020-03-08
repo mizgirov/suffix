@@ -310,10 +310,15 @@ html {
     background-color: grey;
 }
 
-.section__interviews {
+.section__interviews,
+.section__news {
     padding: 0 15rem;
 }
 
-.section__news {
-    padding: 0 15rem;
+.footer {
+    background-color: black;
+    height: 16rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
